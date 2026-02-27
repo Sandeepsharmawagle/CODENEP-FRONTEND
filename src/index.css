@@ -6,8 +6,8 @@
   /* padding: 2.5px; */
 }
 body{
-  margin: 3.5px;
-  padding: 2.5px;
+  margin: 3.5px !important;
+  padding: 2.5px !important;
 }
 html {
   scroll-behavior: smooth;
