@@ -3,9 +3,12 @@
 * {
   box-sizing: border-box;
   /* margin: 3.5px; */
+  /* padding: 2.5px; */
+}
+body{
+  margin: 3.5px;
   padding: 2.5px;
 }
-
 html {
   scroll-behavior: smooth;
 }
