@@ -2,8 +2,8 @@
 
 * {
   box-sizing: border-box;
-  margin: 0.5;
-  padding: 0.5;
+  margin: 3.5px !important;
+  padding: 2.5px !important;
 }
 
 html {
